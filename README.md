@@ -1,6 +1,6 @@
 # GWR-Tower-Hamlets
 
-Running a geographically weighted regression
+Code for running geographically weighted regression
 
 Data source:
 
